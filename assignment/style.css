@@ -1,0 +1,17 @@
+.top-banner {
+    background-color: darkslategray;
+    color: lightcyan;
+    text-align: center;
+}
+
+.note {
+    background-color: lightgray;
+    padding: 1em;
+}
+
+body {
+    background-image: url('image/record.png') ;
+    background-repeat: repeat;
+    background-position: center;
+    margin: 0px;
+}
